@@ -71,7 +71,7 @@ PC用のスタイル
 /*================
 SP用のスタイル
 =================*/
-@media screen and (min-width: 375px) {
+@media screen and (min-width: 375px) and (max-width: 767px) {
   /* 横幅設定 */
   body {
     min-width: 375px;
